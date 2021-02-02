@@ -10,4 +10,6 @@ TODO list
 - [ ] DI with Hilt
 - [ ] Ui test with Expresso
 - [ ] Unit test
+- [ ] Feature toggle with Remote Condif
+- [ ] Analitycs 
 
