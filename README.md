@@ -1,7 +1,7 @@
 # marvel-characters-app
 Simple app with Marvel characters
 
-TODO list
+# TODO list
 - [ ] Modular architecture
 - [ ] Changelog
 - [ ] Paging library
