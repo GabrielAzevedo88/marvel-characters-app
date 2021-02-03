@@ -10,6 +10,7 @@ Simple app with Marvel characters
 - [ ] DI with Hilt
 - [ ] Ui test with Expresso
 - [ ] Unit test
-- [ ] Feature toggle with Remote Condif
-- [ ] Analitycs 
+- [ ] Feature toggle with Remote Config
+- [ ] Analitycs
+- [ ] Favorite feature with Room
 
