@@ -1,0 +1,5 @@
+include ':feature'
+include ':common'
+include ':core'
+include ':app'
+rootProject.name = "Marvel App"
